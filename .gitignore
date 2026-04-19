@@ -1,0 +1,8 @@
+.env
+credentials/
+__pycache__/
+*.py[cod]
+.venv/
+uv.lock
+/tmp/tojibot/
+*.png
